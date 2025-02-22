@@ -71,4 +71,7 @@ A modern, fully responsive Tech Conference 2025 website built using SvelteKit, f
 |-- tsconfig.js
 |-- vite.config.ts
 
+This project is deployed and live on Vercel! You can access it here:
+🔗 Live Demo: https://tech-conference-c8n6r7w63-afreen-sultanas-projects.vercel.app/
+
 
